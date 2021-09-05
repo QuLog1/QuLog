@@ -1,1 +1,1 @@
-This repository contains source code implementation of the methods presented in **"QuLog: Deep-learning-based system for quantitative log quality assessment"**. It is submitted for review at IEEE BigData 2021. Additionally, it provides example code for running a set of baselines.
+This repository contains source code implementation of the methods presented in **"QuLog: Deep learning system for quantitative log quality assessment"**. It is submitted for review at IEEE BigData 2021. Additionally, it provides example code for running a set of baselines.
